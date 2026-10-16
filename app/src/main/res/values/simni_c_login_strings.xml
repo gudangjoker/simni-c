@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="simni_c_app_name">SIMNI-C</string>
+    <string name="simni_c_welcome">SELAMAT DATANG DI SIMNI-C</string>
+    <string name="simni_c_login_caption">Masuk untuk melanjutkan ke ruang komunikasi privat.</string>
+    <string name="simni_c_logo_description">Logo SIMNI-C</string>
+</resources>

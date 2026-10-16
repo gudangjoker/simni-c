@@ -1,0 +1,34 @@
+{
+	"$schema": "https://raw.githubusercontent.com/cloudflare/workers-sdk/main/packages/wrangler/config-schema.json",
+	"name": "chatrok-media-gateway",
+	"main": "worker.js",
+	"compatibility_date": "2026-08-27",
+	"compatibility_flags": [
+		"nodejs_compat"
+	],
+	"workers_dev": true,
+	"preview_urls": false,
+	"vars": {
+		"FIREBASE_PROJECT_ID": "chatrok-4b121",
+		"CHATROK_ALLOWED_ORIGINS": "https://chatrok-4b121.web.app,https://chatrok-4b121.firebaseapp.com,http://localhost:5000,http://127.0.0.1:5000"
+	},
+	"observability": {
+		"enabled": true,
+		"logs": {
+			"enabled": true,
+			"invocation_logs": true,
+			"persist": true
+		}
+	},
+	"r2_buckets": [
+		{
+			"binding": "CHAT_MEDIA_BUCKET",
+			"bucket_name": "chatrok-media"
+		}
+	],
+	"triggers": {
+		"crons": [
+			"17 3 * * *"
+		]
+	}
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827350687574",
+    "project_id": "chatrok-4b121",
+    "storage_bucket": "chatrok-4b121.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827350687574:android:e556831d725d637c7840f7",
+        "android_client_info": {
+          "package_name": "com.chatrok.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKC94pHAPW16iotmPOaVKbmJzKsYmbrsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827350687574:android:ca2356f7e56018077840f7",
+        "android_client_info": {
+          "package_name": "id.simni.chatrok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKC94pHAPW16iotmPOaVKbmJzKsYmbrsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

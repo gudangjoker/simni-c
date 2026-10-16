@@ -1,0 +1,229 @@
+<resources>
+    <string name="app_name">SIMNI-C</string>
+
+    <!-- Umum -->
+    <string name="back">Kembali</string>
+    <string name="cancel">Batal</string>
+    <string name="delete">Hapus</string>
+    <string name="send">Kirim</string>
+    <string name="search">Cari</string>
+    <string name="clear">Bersihkan</string>
+    <string name="save">Simpan</string>
+    <string name="share">Bagikan</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="loading">Memuat…</string>
+    <string name="user">Pengguna</string>
+    <string name="contact">Kontak</string>
+    <string name="you">Anda</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="video">Video</string>
+    <string name="photo">Foto</string>
+    <string name="document">Dokumen</string>
+    <string name="message">Pesan</string>
+    <string name="about">Tentang</string>
+    <string name="settings">Pengaturan</string>
+    <string name="profile">Profil</string>
+    <string name="security">Keamanan</string>
+    <string name="copy">Salin</string>
+    <string name="reply">Balas</string>
+    <string name="stop">Berhenti</string>
+    <string name="play">Putar</string>
+    <string name="pause">Jeda</string>
+
+    <!-- Autentikasi -->
+    <string name="welcome_chatrok">Selamat datang di CHATROK</string>
+    <string name="login_subtitle">Masuk ke akun komunikasi privat Anda</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="hide_password">Sembunyikan kata sandi</string>
+    <string name="show_password">Tampilkan kata sandi</string>
+    <string name="sign_in">Masuk</string>
+    <string name="quick_demo_login">Masuk Demo Cepat</string>
+    <string name="new_user_question">Belum memiliki akun?</string>
+    <string name="register">Daftar</string>
+    <string name="register_account">Daftar Akun</string>
+    <string name="join_chatrok">Bergabung dengan CHATROK</string>
+    <string name="register_subtitle">Buat identitas privat untuk komunikasi CHATROK</string>
+    <string name="display_name">Nama Tampilan</string>
+    <string name="username_example">Nama Pengguna (contoh: budi.guru)</string>
+    <string name="complete_registration">Selesaikan Pendaftaran</string>
+    <string name="already_registered">Sudah memiliki akun?</string>
+    <string name="forgot_password">Lupa kata sandi?</string>
+    <string name="reset_password_title">Reset Kata Sandi</string>
+    <string name="reset_password_instruction">Masukkan alamat email akun Anda. Kami akan mengirimkan tautan untuk mengatur ulang kata sandi ke email tersebut.</string>
+    <string name="send_reset_link">Kirim Tautan</string>
+    <string name="reset_link_sent_title">Tautan Terkirim</string>
+    <string name="invalid_email_prompt">Masukkan alamat email yang valid.</string>
+    <string name="auth_failed">Autentikasi gagal</string>
+    <string name="registration_failed">Pendaftaran gagal</string>
+    <string name="chatrok_shield">Perlindungan CHATROK</string>
+    <string name="splash_subtitle">Messenger privat 1-ke-1</string>
+
+    <!-- Inbox -->
+    <string name="simulate_network">Simulasikan Status Jaringan</string>
+    <string name="call_history">Riwayat Panggilan</string>
+    <string name="new_chat">Chat Baru</string>
+    <string name="search_conversations">Cari percakapan atau pengguna…</string>
+    <string name="no_matches">Tidak ada hasil</string>
+    <string name="inbox_empty">Kotak masuk masih kosong</string>
+    <string name="no_search_results_format">Tidak ada pengguna atau pesan yang cocok dengan “%1$s”.</string>
+    <string name="start_secure_chat">Mulai percakapan privat 1-ke-1 dengan pengguna CHATROK.</string>
+    <string name="clear_search">Bersihkan Pencarian</string>
+    <string name="start_new_chat">Mulai Chat Baru</string>
+    <string name="delete_conversation_title">Hapus Percakapan?</string>
+    <string name="delete_conversation_message_format">Hapus seluruh riwayat chat dengan %1$s?</string>
+    <string name="voice_message">Pesan suara</string>
+    <string name="tap_start_conversation">Ketuk untuk memulai percakapan</string>
+    <string name="new_private_chat">Chat 1-ke-1 Baru</string>
+    <string name="users_available_format">%1$d pengguna tersedia</string>
+    <string name="search_name_username">Cari nama atau nama pengguna…</string>
+    <string name="no_users_found">Pengguna tidak ditemukan</string>
+    <string name="search_hint_users">Coba cari berdasarkan nama atau nama pengguna.</string>
+
+    <!-- Status pesan / koneksi -->
+    <string name="sending">Mengirim</string>
+    <string name="sent">Terkirim</string>
+    <string name="delivered">Diterima</string>
+    <string name="read">Dibaca</string>
+    <string name="failed">Gagal</string>
+    <string name="waiting_network">Menunggu jaringan… Ketuk untuk mencoba lagi</string>
+    <string name="typing">Sedang mengetik…</string>
+    <string name="last_seen_format">Terakhir dilihat %1$s</string>
+    <string name="e2ee_pending_badge">E2EE menunggu integrasi</string>
+
+    <!-- Chat -->
+    <string name="voice_call">Panggilan Suara</string>
+    <string name="video_call">Panggilan Video</string>
+    <string name="more_options">Opsi Lainnya</string>
+    <string name="view_profile">Lihat Profil</string>
+    <string name="security_encryption">Keamanan &amp; Enkripsi</string>
+    <string name="clear_chat">Hapus Riwayat Chat</string>
+    <string name="unblock_user">Buka Blokir Pengguna</string>
+    <string name="block_user">Blokir Pengguna</string>
+    <string name="blocked_notice">Anda memblokir pengguna ini. Buka blokir untuk mengirim pesan atau melakukan panggilan.</string>
+    <string name="e2ee_phase2_notice">Enkripsi end-to-end akan diaktifkan pada integrasi backend Phase 2.</string>
+    <string name="message_actions">Aksi Pesan</string>
+    <string name="reply_to_message">Balas pesan</string>
+    <string name="copy_text">Salin teks</string>
+    <string name="delete_message">Hapus pesan</string>
+    <string name="delete_message_title">Hapus Pesan?</string>
+    <string name="delete_message_body">Pesan akan dihapus dari penyimpanan lokal demo.</string>
+    <string name="clear_chat_title">Hapus Riwayat Chat?</string>
+    <string name="clear_chat_body">Hapus semua pesan dalam percakapan ini? Tindakan ini tidak dapat dibatalkan.</string>
+    <string name="clear_all">Hapus Semua</string>
+    <string name="replying_to_format">Membalas %1$s</string>
+    <string name="cancel_reply">Batalkan Balasan</string>
+    <string name="emojis">Emoji</string>
+    <string name="message_hint">Pesan…</string>
+    <string name="attachments">Lampiran</string>
+    <string name="send_message">Kirim Pesan</string>
+    <string name="record_voice_note">Rekam Pesan Suara</string>
+    <string name="cancel_recording">Batalkan Rekaman</string>
+    <string name="lock_recording">Kunci Rekaman</string>
+    <string name="stop_recording">Hentikan Rekaman</string>
+    <string name="locked_duration_format">Terkunci • %1$s</string>
+    <string name="discard">Buang</string>
+    <string name="pause_preview">Jeda Pratinjau</string>
+    <string name="play_preview">Putar Pratinjau</string>
+    <string name="retry_message">Coba kirim ulang pesan</string>
+    <string name="encrypted_image">Gambar</string>
+    <string name="pdf_document">Dokumen PDF</string>
+
+    <!-- Lampiran/media -->
+    <string name="share_content">Bagikan Konten</string>
+    <string name="media_preview">Pratinjau Media</string>
+    <string name="play_video">Putar Video</string>
+    <string name="image_preview_description">Pratinjau foto</string>
+    <string name="video_preview_description">Pratinjau video</string>
+    <string name="document_preview_description">Pratinjau dokumen</string>
+    <string name="camera_photo_caption">Foto kamera</string>
+
+    <!-- Profil -->
+    <string name="loading_profile">Memuat profil…</string>
+    <string name="contact_info">Info Kontak</string>
+    <string name="call">Panggilan</string>
+    <string name="mute_notifications">Bisukan Notifikasi</string>
+    <string name="unblock_name_format">Buka Blokir %1$s</string>
+    <string name="block_name_format">Blokir %1$s</string>
+    <string name="edit_my_profile">Edit Profil Saya</string>
+    <string name="full_name">Nama Tampilan</string>
+    <string name="bio_status">Bio</string>
+    <string name="save_changes">Simpan Perubahan</string>
+    <string name="edit_profile">Edit Profil</string>
+    <string name="registered_user">Pengguna Terdaftar</string>
+
+    <!-- Security / E2EE placeholder -->
+    <string name="security_title">Keamanan &amp; Enkripsi</string>
+    <string name="e2ee_pending_title">Menunggu integrasi E2EE</string>
+    <string name="e2ee_pending_description">Kriptografi, fingerprint, QR verifikasi, dan status kunci akan dihubungkan pada Phase 2. Tampilan ini belum menyatakan sesi terenkripsi aktif.</string>
+    <string name="fingerprint_placeholder_title">Fingerprint</string>
+    <string name="fingerprint_placeholder">Belum tersedia</string>
+    <string name="qr_placeholder_title">QR Verifikasi</string>
+    <string name="qr_placeholder">Akan tersedia setelah integrasi E2EE</string>
+    <string name="verify_identity">Verifikasi Identitas</string>
+    <string name="verification_unavailable">Verifikasi belum tersedia pada Phase 1</string>
+    <string name="identity_verified_demo">Status verifikasi demo aktif</string>
+
+    <!-- Panggilan -->
+    <string name="call_logs">Riwayat Panggilan</string>
+    <string name="call_logs_subtitle">Simulasi panggilan 1-ke-1 Phase 1</string>
+    <string name="test_incoming_call">Simulasikan Panggilan Masuk</string>
+    <string name="no_call_logs">Belum ada riwayat panggilan</string>
+    <string name="call_logs_empty_desc">Riwayat panggilan suara dan video akan muncul di sini.</string>
+    <string name="missed_voice_call">Panggilan Suara Tak Terjawab</string>
+    <string name="missed_video_call">Panggilan Video Tak Terjawab</string>
+    <string name="duration_format">Durasi %1$s</string>
+    <string name="outgoing">Keluar</string>
+    <string name="incoming">Masuk</string>
+    <string name="call_back">Telepon Kembali</string>
+    <string name="decline">Tolak</string>
+    <string name="accept">Terima</string>
+    <string name="answer_video">Terima Video</string>
+    <string name="incoming_voice_call_format">@%1$s • Panggilan Suara Masuk</string>
+    <string name="incoming_video_call">Panggilan Video Masuk • Simulasi Phase 1</string>
+    <string name="connecting">Menghubungkan…</string>
+    <string name="speaker">Speaker</string>
+    <string name="earpiece">Earpiece</string>
+    <string name="mute">Bisukan</string>
+    <string name="unmute">Aktifkan Mikrofon</string>
+    <string name="camera">Kamera</string>
+    <string name="camera_off">Kamera Mati</string>
+    <string name="stop_video">Matikan Video</string>
+    <string name="start_video">Nyalakan Video</string>
+    <string name="flip_camera">Ganti Kamera</string>
+    <string name="end_call">Akhiri Panggilan</string>
+    <string name="end">Akhiri</string>
+    <string name="video_call_name_format">%1$s (Video Demo)</string>
+    <string name="you_front">Anda (Depan)</string>
+    <string name="you_back">Anda (Belakang)</string>
+
+    <!-- Pengaturan -->
+    <string name="notifications_sounds">Notifikasi &amp; Nada</string>
+    <string name="message_sound">Suara Pesan</string>
+    <string name="message_sound_desc">Putar suara saat ada pesan baru masuk</string>
+    <string name="vibration">Getaran</string>
+    <string name="vibration_desc">Getar untuk panggilan dan pesan</string>
+    <string name="privacy_encryption">Privasi &amp; Enkripsi</string>
+    <string name="read_receipts">Laporan Dibaca</string>
+    <string name="read_receipts_desc">Izinkan kontak melihat tanda dibaca</string>
+    <string name="typing_indicators">Indikator Mengetik</string>
+    <string name="typing_indicators_desc">Tampilkan status sedang mengetik saat menulis pesan</string>
+    <string name="app_lock">Kunci Aplikasi</string>
+    <string name="app_lock_desc">Wajibkan biometrik atau PIN untuk membuka CHATROK</string>
+    <string name="data_storage">Data &amp; Penyimpanan</string>
+    <string name="cache_cleared">Cache media dan audio berhasil dibersihkan.</string>
+    <string name="clear_media_cache">Bersihkan Cache Media</string>
+    <string name="local_cache_info">Data demo tersimpan di penyimpanan lokal sementara</string>
+    <string name="about_chatrok">Tentang CHATROK</string>
+    <string name="version_label">CHATROK Private Messenger v1.0.0</string>
+    <string name="about_description">Aplikasi messenger privat 1-ke-1. Enkripsi end-to-end akan dihubungkan pada Phase 2.</string>
+    <string name="sign_out">Keluar dari Akun</string>
+    <string name="sign_out_title">Keluar dari Akun?</string>
+    <string name="sign_out_body">Apakah Anda yakin ingin keluar dari CHATROK? Sesi lokal Anda akan dihentikan.</string>
+    <string name="sign_out_confirm">Keluar</string>
+    <string name="appearance">Tampilan</string>
+    <string name="theme_system">Ikuti Sistem</string>
+    <string name="theme_light">Terang</string>
+    <string name="theme_dark">Gelap</string>
+</resources>

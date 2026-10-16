@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dashboard_brand">SIMNI</string>
+    <string name="dashboard_title">Dashboard SIMNI</string>
+    <string name="dashboard_school_year">Tapel 2026-2027</string>
+    <string name="dashboard_synced">Tersinkron</string>
+    <string name="dashboard_quick_actions">AKSI CEPAT</string>
+    <string name="dashboard_total_students">Total Siswa</string>
+    <string name="dashboard_present_today">Hadir Hari Ini</string>
+    <string name="dashboard_learning_goals">Tujuan Pembelajaran</string>
+    <string name="dashboard_teaching_journal">Jurnal Mengajar</string>
+    <string name="dashboard_scan_attendance">Scan Presensi</string>
+    <string name="dashboard_input_score">Input Nilai TP</string>
+    <string name="dashboard_fill_journal">Isi Jurnal</string>
+    <string name="dashboard_gadm">Buat Administrasi GADM</string>
+    <string name="dashboard_teacher_notes">Catatan Guru</string>
+    <string name="dashboard_files">File &amp; LKPD</string>
+    <string name="dashboard_add_student">Tambah Siswa</string>
+    <string name="dashboard_menu">Buka menu</string>
+    <string name="dashboard_menu_dashboard">Dashboard</string>
+    <string name="dashboard_menu_settings">Pusat Pengaturan</string>
+    <string name="dashboard_toggle_theme">Ganti mode tampilan</string>
+    <string name="dashboard_feature_unavailable">Fitur ini belum tersedia pada versi SIMNI-C.</string>
+</resources>
